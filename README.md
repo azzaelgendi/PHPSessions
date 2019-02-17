@@ -1,0 +1,2 @@
+# PHPSessions
+session start
